@@ -121,7 +121,7 @@ const hisanswerlist = [
     "米価の低下",
     "大岡忠相",
     "小石川養成所",
-    "目安箱",
+    "目安箱の設置",
     "公事方御定書",
     "享保の飢饉",
     "打ちこわし",
@@ -140,13 +140,12 @@ const bioquizlist =[
 const bioanswerlist = [
     "no"
 ]
-function askquiz () {
-        const option = document.title;
-        if(option == "歴史勉強サイト"){
+function askquiz (option) {
+        if(option == history){
             listnum = Math.floor(Math.random()*hisquizlist.length);
             quizsentance.textContent = hisquizlist[listnum];
         }
-        else if(option == "生物勉強サイト"){
+        else if(option == bio){
             listnum = Math.floor(Math.random()*bioquizlist.length);
             quizsentance.textContent = bioquizlist[listnum];
         }
@@ -154,7 +153,6 @@ function askquiz () {
             listnum = Math.floor(Math.random()*geoquizlist.length);
             quizsentance.textContent = geoquizlist[listnum];
         }
-        resalt.textContent = "結果："
         console.log(listnum)
 }
 const quiz = document.getElementById('quiz');
@@ -186,10 +184,11 @@ finish.addEventListener('click', () =>{
             resalt.textContent = "結果：不正解 答えは" + geoanswerlist[listnum] + "です"
         }
         else{
-            resalt.textContent = "結果：不正解 答えは" + bioanwerlist[listnum] + "です"}
+            resalt.textContent = "結果：不正解 答えは" + bioanswerlist[listnum] + "です"
+        }
         series = 0;
         collect.textContent = "連続正解回数：0"
         document.getElementById("answerbox").value = "";
     }
-
+    askquiz(history)
 });
