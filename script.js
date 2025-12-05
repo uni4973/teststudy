@@ -102,6 +102,7 @@ const hisanswerlist = [
     "木綿",
     "蔵書家",
     "財政難",
+    "文治政治",
     "慶安の変",
     "元禄小判",
     "生類憐みの令",
@@ -190,4 +191,5 @@ finish.addEventListener('click', () =>{
         collect.textContent = "連続正解回数：0"
         document.getElementById("answerbox").value = "";
     }
+
 });
