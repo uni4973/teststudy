@@ -58,11 +58,6 @@ a,a:hover,a:visited{
     top: 450px;
     left: 600px;
 }
-p #num{
-    position: absolute;
-    top: 250px;
-    left: 400px;
-}
 .hidden {
     display: none;
 }
@@ -73,10 +68,6 @@ p #num{
     width: 1200px;
     height: 300px;
     margin: 0 auto;
-}
-#num{
-    position: relative;
-    left: 900px;
 }
 #answer{
    position: absolute;
@@ -103,4 +94,9 @@ p #num{
 }
 .finish:hover{
     opacity: 0.8;
+}
+#one, #next{
+    background-color: green;
+    width: 5rem;
+    color: white;
 }
