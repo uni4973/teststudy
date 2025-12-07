@@ -61,7 +61,59 @@ const hisquizlist = [
     "享保の改革の結果主に米価の上昇によって起こった飢饉を何という？",
     "享保の改革の結果主に米価の上昇によって米を出し惜しみして売らない商人を襲うことを何という？",
     "八代将軍吉宗は彼が行った政策内容から何と呼ばれた？",
-    "吉宗が途中で将軍の位を退き大御所となったが、吉宗の子である九代目将軍となった人物を何という？"
+    "吉宗が途中で将軍の位を退き大御所となったが、吉宗の子である九代目将軍となった人物を何という？",
+    "江戸幕府十代将軍は？",
+    "江戸幕府十代将軍のの家治の時の老中である農業よりも商業に力を入れたのは誰ですか？",
+    "田沼意次は農業よりも商業に注目した政治を行いましたが、何を承認し、そこから税を徴収することで財政難を解決しようとしましたか？",
+    "江戸と地方をつなぐ水運を作ることや新田開発をすることが目的の田沼意次が行った政策は何ですか？",
+    "ラッコをとるために蝦夷地を駐屯地にしたいロシアに対する脅威を赤蝦夷風説考を著したことで田沼に認識させたことで有名な人物は？",
+    "工藤平助が著したロシア研究著は？",
+    "工藤平助が著した赤蝦夷風説考がきっかけとなった田沼が行った政策としてどこを調査・開拓した？",
+    "田沼はどこでの貿易を奨励した？",
+    "田沼は長崎貿易で金銀を輸入し何を輸出した？",
+    "田沼の政治はわいろの横行によって政治が乱れ、それに加えてある山の噴火によって天明の飢饉が起こったがその山とは？田沼はその後失脚",
+    "1783年浅間山の噴火によって起こった飢饉は？田沼はその後失脚",
+    "1787年に就任した徳川11代目将軍は？",
+    "十一代目将軍家斉のころの老中である松平定信が行った政治は何と呼ばれる？",
+    "寛政の改革を行った11代目将軍家斉のころの老中は？",
+    "寛政の改革で行われた、百姓が江戸に来ることによる治安悪化とコメ不足を防ぐため百姓の出稼ぎを制限した政策は？",
+    "寛政の改革で行われた政策として飢饉に備え何を蓄えさせた？",
+    "寛政の改革では政治を引き締めるために生活苦の旗本・御家人の借金を帳消しする何が出された？旗本と御家人とは：旗本は将軍に直接会うことのできる一万石未満の家臣で、御家人は基本は旗本と同じだが将軍に合うことはできない",
+    "寛政の改革ではのちに昌平坂学問所と呼ばれる朱子学以外の学問を禁止された学校の名前は？",
+    "寛政の改革では享保の改革と同じように節約させたがこれを何という？",
+    "寛政の改革では風紀の取り締まりとして政治批判や幕府や虫の威厳を損なうような書籍を取り締まるなにが行われた？",
+    "幕府の財政難による百姓への負担や宝永地震や浅間山による天災によって起きた天明の飢饉によって民衆の生活が厳しくなり始める小さな副業のことを何という？",
+    "商品作物の栽培や農具や肥料の購入のために農村部でも広がった貨幣を使う物々交換が主流となる経済を何経済という？",
+    "商品作物の栽培によって百姓が地主になるものと、土地を質に入れるものに分かれ江戸中期は貧富の差が広がった←これは問題ではありません。でも大切です",
+    "農村家内工業が進化した、商人が農民に原料や道具を貸し付け、農民が❞各々で”(←大切)生産した製品を買い取る、工場制手工業とよく対比される生産形態を何と言いますか？",
+    "問屋制家内工業が進化した、一定の規模を持つ工場で手作業で生産し分担することで生産効率を上げる生産形態を何という？",
+    "飢饉や年貢の取り立て、専売制により(likeパンツ座)により生活の苦しい百姓によって百姓一揆がおきたり、コメの売り惜しみをする商人を襲う何が行われた？",
+    "工業制手工業によって生み出された有名なもの、灘の〇、野田の〇、気流・河内の〇",
+    "江戸中期になり庶民も学問をするようになり、その中の一つとして儒教や仏教の影響を受ける前の日本の志位想を明らかにする学問は？",
+    "江戸中期になり庶民も学問をするようになり、その中の一つとして儒教や仏教の影響を受ける前の日本の志位想を明らかにする学問、国学を大成した人物は？",
+    "国学の研究は天皇を最高の権威として尊厳する思想である何と結びついた？",
+    "江戸中期になり庶民も学問をするようになり、その中の一つとしてオランダの学問が取り入れられたがそれを何という？",
+    "蘭学が日本で広まったのは吉宗がキリスト教以外の学問ない何の輸入の制限を緩和したから？",
+    "蘭学者である青木昆陽はサツマイモの研究、野呂元丈は西洋の医学や植物学の知識を日本に伝えたが、杉田玄白と前野良沢は何を翻訳し解体新書を著した？",
+    "鳴滝塾を作り、オランダ商館の医師である人物は？",
+    "オランダ商館の医師であるシーボルトは、何塾を作った？",
+    "発明家として発電機などの発明をした、医師や陶芸家として活躍した蘭学者は？",
+    "伊能忠敬が55歳から測定をはじめ、完成させた日本地図を何という？",
+    "大日本沿岸輿地全図を作った人物は？",
+    "差別のない社会を理想だと説き身分制社会を否定した人物は？",
+    "十一代将軍である家斉の時代の文化を何という？",
+    "元禄文化は上方の町人の文化だが化政文化は誰中心の文化？",
+    "思想の取り締まりが厳しかったため(松平定信)権力者の世の中を皮肉る風潮が生まれた文化は？",
+    "化政文化の一つである、民衆の暮らしや当時の政治の(某M氏)皮肉を五・七・五・七・七で表現するものは？",
+    "化政文化で狂言で代表される人は？",
+    "俳句の季語がいらない盤は？",
+    "元禄文化の俳諧を大成した人物は松尾芭蕉だが、化政文化の俳諧に代表される人物は？二人答えよ",
+    "化政文化の小説家として有名な、十返舎一九と滝川馬琴のそれぞれの代表作は？",
+    "化政文化の小説作品である東海道中膝栗毛と南総里見八犬伝を著した人物はそれぞれ誰？",
+    "化政文化の浮世絵に代表される人である喜多川歌麿、葛飾北斎、歌川広重のそれぞれの代表作は？喜多川歌麿は絵のジャンルで",
+    "化政文化の浮世絵作品として風名な、美人画、富嶽三十六景、東海道五十三次のそれぞれの作者は？",
+    "化政文化のころの年中行事として元旦節分ご節句がはやった。これは問題ではありません",
+    "東海道中膝栗毛による旅行ブームが起こり〇神宮や〇寺などの遠くの神社への旅行が広まる"
 ]
 const hisanswerlist = [
     "家康",
@@ -126,7 +178,58 @@ const hisanswerlist = [
     "享保の飢饉",
     "打ちこわし",
     "米将軍",
-    "家重"
+    "家重",
+    "家治",
+    "田沼意次",
+    "株仲間",
+    "印旛沼",
+    "工藤平助",
+    "赤蝦夷風説書",
+    "蝦夷地",
+    "長崎",
+    "俵物銅",
+    "浅間山",
+    "天明の飢饉",
+    "家斉",
+    "寛政の改革",
+    "松平定信",
+    "帰農令",
+    "米",
+    "棄捐令",
+    "聖堂学問所",
+    "倹約令",
+    "出版統制",
+    "農村家内工業",
+    "貨幣経済",
+    "",
+    "問屋制家内工業",
+    "工場制手工業",
+    "打ちこわし",
+    "酒醤油織物",
+    "国学",
+    "本居宣長",
+    "尊王論",
+    "蘭学",
+    "漢訳洋書",
+    "ターヘル・アナトミア",
+    "シーボルト",
+    "鳴滝塾",
+    "平賀源内",
+    "大日本沿岸輿地全図",
+    "伊能忠敬",
+    "安藤昌益",
+    "化政文化",
+    "江戸の町人",
+    "化政文化",
+    "大田南畝",
+    "川柳",
+    "与謝蕪村小林一茶",
+    "東海道中膝栗毛南総里見八犬伝",
+    "十返舎一九滝沢馬琴",
+    "美人画富嶽三十六景東海道中膝栗毛",
+    "喜多川歌麿葛飾北斎歌川広重",
+    "",
+    "伊勢善光"
 ]
 const geoquizlist = [
     "konnnitiha"
@@ -140,12 +243,13 @@ const bioquizlist =[
 const bioanswerlist = [
     "no"
 ]
-function askquiz (option) {
-        if(option == history){
+function askquiz () {
+        option = document.title
+        if(option == "歴史勉強サイト"){
             listnum = Math.floor(Math.random()*hisquizlist.length);
             quizsentance.textContent = hisquizlist[listnum];
         }
-        else if(option == bio){
+        else if(option == "生物勉強サイト"){
             listnum = Math.floor(Math.random()*bioquizlist.length);
             quizsentance.textContent = bioquizlist[listnum];
         }
@@ -153,7 +257,6 @@ function askquiz (option) {
             listnum = Math.floor(Math.random()*geoquizlist.length);
             quizsentance.textContent = geoquizlist[listnum];
         }
-        console.log(listnum)
 }
 const quiz = document.getElementById('quiz');
 const quizsentance = document.getElementById('quizsentance');
@@ -161,12 +264,15 @@ const resalt = document.getElementById("resalt");
 const finish = document.getElementById("finish");
 const answer = document.getElementById("answerbox")
 const collect = document.getElementById("series")
+const one = document.getElementById("one")
+const next = document.getElementById("next")
 const title = document.title;
 
 let series = 0;
 let listnum;
+let option;
 quiz.addEventListener('click', () =>{
-    askquiz(history)
+    askquiz()
 });
 finish.addEventListener('click', () =>{
     if(answer.value==hisanswerlist[listnum] || answer.value==geoanswerlist[listnum] || answer.value==bioanswerlist){
@@ -192,3 +298,56 @@ finish.addEventListener('click', () =>{
     }
     askquiz(history)
 });
+
+one.addEventListener("click", () =>{
+    option = document.title
+    listnum = 0;
+    if(option == "歴史勉強サイト"){
+        quizsentance.textContent = hisquizlist[listnum];
+    }
+    else if(option == "生物勉強サイト"){
+        listnum = Math.floor(Math.random()*bioquizlist.length);
+        quizsentance.textContent = bioquizlist[listnum];
+    }
+    else{
+        listnum = Math.floor(Math.random()*geoquizlist.length);
+        quizsentance.textContent = geoquizlist[listnum];
+    }
+})
+
+next.addEventListener("click", () =>{
+    if(answer.value==hisanswerlist[listnum] || answer.value==geoanswerlist[listnum] || answer.value==bioanswerlist){
+        series = series + 1;
+        collect.textContent = "連続正解回数：" + series;
+        resalt.textContent = "結果：正解"
+        document.getElementById("answerbox").value = "";
+    }
+    else{
+        resalt.textContent = "a"
+        if(title=="歴史勉強サイト"){
+            resalt.textContent = "結果：不正解 答えは" + hisanswerlist[listnum] + "です" 
+        }
+        else if(title=="生物勉強サイト"){
+            resalt.textContent = "結果：不正解 答えは" + geoanswerlist[listnum] + "です"
+        }
+        else{
+            resalt.textContent = "結果：不正解 答えは" + bioanswerlist[listnum] + "です"
+        }
+        series = 0;
+        collect.textContent = "連続正解回数：0"
+        document.getElementById("answerbox").value = "";
+    }
+    option = document.title
+    listnum = listnum + 1;
+    if(option == "歴史勉強サイト"){
+        quizsentance.textContent = hisquizlist[listnum];
+    }
+    else if(option == "生物勉強サイト"){
+        listnum = Math.floor(Math.random()*bioquizlist.length);
+        quizsentance.textContent = bioquizlist[listnum];
+    }
+    else{
+        listnum = Math.floor(Math.random()*geoquizlist.length);
+        quizsentance.textContent = geoquizlist[listnum];
+    }
+})
